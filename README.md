@@ -1,3 +1,5 @@
+<img src="./BitwardenPortable/App/AppInfo/appicon_256.png" alt="Bitwarden logo" width="150" />
+
 # BitwardenPortable
 
 Solve your password management problems.
