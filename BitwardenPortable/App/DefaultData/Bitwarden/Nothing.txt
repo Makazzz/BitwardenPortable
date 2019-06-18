@@ -1,1 +1,0 @@
-Here goes the folder for Bitwarden data and this is just for the folder exist in github
