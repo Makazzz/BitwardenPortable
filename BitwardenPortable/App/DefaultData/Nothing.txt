@@ -1,1 +1,0 @@
-Here goes the app file of Bitwarden and this is just for the folder exist in github
