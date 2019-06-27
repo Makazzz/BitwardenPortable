@@ -1,0 +1,5 @@
+# Ignore Data folder
+BitwardenPortable/Data
+
+# Ignore Work folder
+Work
