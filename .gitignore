@@ -1,5 +1,11 @@
+# Ignore App folder
+BitwardenPortable/App/Bitwarden
+
 # Ignore Data folder
 BitwardenPortable/Data
 
 # Ignore Work folder
 Work
+
+# Ignore log
+pac_installer_log.ini
