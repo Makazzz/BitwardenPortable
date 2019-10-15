@@ -5,7 +5,7 @@
 # Bitwarden Portable<a href="https://portableapps.com/"><img src="https://cdn.portableapps.com/portableapps.com_1546.png" width="309" height="45" alt="PortableApps.com - Your Digital Life, Anywhere" title="PortableApps.com - Your Digital Life, Anywhere" align="right"></a>
 
 <p align="center">
-	<a href="https://github.com/Makazzz/BitwardenPortable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/BitwardenPortable?color=0cf&logo=Visual%20Studio%20Code"></a>
+	<a href="https://github.com/Makazzz/BitwardenPortable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/BitwardenPortable?color=0cf&logo=Electron"></a>
 	<a href="https://github.com/Makazzz/BitwardenPortable/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Makazzz/BitwardenPortable/latest/total?color=blue"></a>
 	<a href="https://github.com/Makazzz/BitwardenPortable/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Makazzz/BitwardenPortable/total?color=0cf"></a>
 	<a href="https://github.com/Makazzz/BitwardenPortable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/BitwardenPortable?color=blue"></a>
@@ -16,7 +16,7 @@ Solve your password management problems.
 
 The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data. Password theft is a serious problem. The websites and apps that you use are under attack every day. Security breaches occur and your passwords are stolen. When you reuse the same passwords everywhere hackers can easily access your email, bank, and other important accounts. Security experts recommend that you use a different, randomly generated password for every online account that you create. But how are you supposed to remember and keep up with that many passwords? Bitwarden helps you create and manage secure passwords so that you can get back to enjoying your life online.
 
-My post on the [PortableApps.com forum](https://portableapps.com/node/60518)
+My post on the [PortableApps.com forum](https://PortableApps.com/node/60518)
 
 ## Download
 
