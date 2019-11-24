@@ -43,7 +43,7 @@ is packaged in an installer and complete zip file.
 
 ## Credits
 
-*	Bitwarden Portable is a redistribution of [Bitwarden](https://bitwarden.com/), developped by the [Bitwarden team](https://github.com/bitwarden)
+*	Bitwarden Portable is a redistribution of [Bitwarden](https://bitwarden.com/), developed by the [Bitwarden team](https://github.com/bitwarden)
 *	[PortableApps.com platform](https://PortableApps.com/download) developed by the [PortableApps.com team](https://PortableApps.com).
 
 ## License
